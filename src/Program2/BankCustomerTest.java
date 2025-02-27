@@ -1,5 +1,13 @@
 package Program2;
 
+/**
+ * @author Ian Frye
+ *         CSC 153 - Java Programming
+ *         2/27/25
+ *         Final Exam Part 2 - Program 2
+ *         Bank Account
+ */
+
 public class BankCustomerTest {
   public static void main(String[] args) {
     // Creating BankAccounts for the first customer
